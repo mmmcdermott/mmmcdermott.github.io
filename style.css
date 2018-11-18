@@ -91,16 +91,13 @@ h3 {
 p {
   font-family: 'verdana';
   color: white;
-  padding: 50px;
-  padding-left: 015px;
-  margin: 70px;
 width: 800px;
 margin-left: auto;
 margin-right: auto;
 }
 
 p em {
-  color: blue;
+  color: yellow;
   font-style: oblique;
 }
 
