@@ -19,3 +19,9 @@ console.log("I'd like to buy some crack");
 var MurderTown = dogName + numberOfAnimals;
 
 console.log(MurderTown);
+
+function dogFact() {
+  console.log("a dog is a man's best friend.");
+}
+
+dogFact();
