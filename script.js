@@ -25,3 +25,19 @@ function dogFact() {
 }
 
 dogFact();
+
+callDog('Fartmouth');
+function callDog (dogName){
+  console.log("Come here, " + dogName + "!");
+}
+
+
+var c = 100;
+var d = 90;
+
+function addNumbers(c,d) {
+  console.log(c);
+  console.log(d);
+  console.log (c + d);
+}
+addNumbers(c,d);
